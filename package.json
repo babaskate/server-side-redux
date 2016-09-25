@@ -1,0 +1,24 @@
+{
+  "name": "server-side-redux",
+  "version": "0.0.1",
+  "description": "Server side redux POC",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react-redux": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babaskate/server-side-redux.git"
+  },
+  "author": "Andrew Babaian <babaspamian@gmail.com> (http://babaskate.blogspot.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babaskate/server-side-redux/issues"
+  },
+  "homepage": "https://github.com/babaskate/server-side-redux#readme"
+}
